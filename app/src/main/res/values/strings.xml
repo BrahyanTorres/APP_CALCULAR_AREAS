@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Brahyan Torres</string>
+    <string name="titulo">CALCULADOR DE ÁREAS</string>
+    <string name="ladoUno">Lado Uno</string>
+    <string name="ladoDos">Lado Dos</string>
+    <string name="resultado">Resultado</string>
+    <string name="calcular">Calcular</string>
+</resources>
